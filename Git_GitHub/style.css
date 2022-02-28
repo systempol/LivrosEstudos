@@ -1,8 +1,18 @@
 body{
-    background-color: bisque;
+    background-color: white;
     margin-left: 25px;
 }
-h1 {
+h1,h3 {
     font-family: 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
     color: black;
+    margin: 2%;
+}
+p {
+    font-family: 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+    margin: 2%;
+}
+.conteudo {
+    background-color: bisque;
+    border-radius: 2%;
 }
